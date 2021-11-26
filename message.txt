@@ -1,0 +1,39 @@
+## What will (likely) be the title of your project?
+
+Bar Chart Race with Netflic Data
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+The bar chart will show a progression of the nost watched show on my netflix account based on time.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+A bar chart race is a noving bar chart race that is updated on a time frame. For example Nate and I will look at two years of Netflix data and hope to analyze it and have the bar chart update visually based on weekly or monthly groups of data. We will used Jupyter Notebook to visualize the data in my netflix data CSV file and will visualy on the screen display the change in the top 5 most watched shows on my netflix account.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Nathaniel Hendricks, 
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A bar chart of my netflix watch time over the entire course of my accounts existence as well as half way thourgh the life span of my account. 
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Choosing any month inbetween a certain time span and displaying the bar chart with the current watch time informtaion of the top 5 shows.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+A bar chart race that visualy upadates every couples seconds. When it updates the new bar chart will show the current watch time data for the top 5 shows forming a bar chart race visual. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+matplot lib and pandas is going to be very important while creating the visuals for the project. I think that anayliyng the data is going to be the harder part rather than creating the actual graphs. We will have to figure out how to serach for shows based on key word for example 'The Office' has to include all of the office episodes watched not just ones named specifcally 'The Office' so whatever string includes the office. One we find a way to easily identify each show the csv file will have to be editied and useless columns will be dropped, for example we are only focusing on watch time so the viewing platform column is of no use to us and can be gotten rid of. Once the Data is cleaned up I think that the harfest part will be isolating the data in our  preferred time interval and then having a function that takes that data and turns it into a barchart. To get the bar chart race visual to work this will have to happen over and over again repeatedly creating progresdive chart visual or 'bar chart race'.
+
+A bar chart race that visualy upadates every couples seconds. When it updates the new bar chart will show the current watch time data for the top 5 shows forming a bar chart race visual. '
